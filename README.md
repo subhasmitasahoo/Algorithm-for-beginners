@@ -2,10 +2,10 @@
 Inspired from Algorithm course in Coursera
 
 ### Content structure
-1. Topic Introduction
+1. Introduction
 2. List of subtopics covered
 3. For each Subtopics:
-	1. Introduction
+	1. Short notes
 	2. Algorithm
 	3. Implementation
 	4. Complexity Analysis
