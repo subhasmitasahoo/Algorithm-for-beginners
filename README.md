@@ -15,12 +15,12 @@ Inspired from Algorithm course by Robert Sedgewick
 
 
 ### Topic to be covered
-1. Analysis of Algorithms
-2. Stacks and Queues
+[ ] 1. Analysis of Algorithms
+[x] 2. Stacks and Queues
 3. Sorting
-	- Elementary sorts
-	- Merge sort
-	- Quick sort
+	* Elementary sorts
+	* Merge sort
+	* Quick sort
 	* Priority queues
 4. Union Find Algorithms
 5. Elementary Symbol Tables
