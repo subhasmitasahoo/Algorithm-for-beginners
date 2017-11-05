@@ -1,1 +1,5 @@
-1. Dynamic Connectivity
+Topics covered
+1. Dynamic connectivity
+2. Quick-Find
+3. Quick-Union
+4. Improvements
