@@ -25,10 +25,10 @@ Inspired from Algorithm course by Robert Sedgewick
 4. Union Find Algorithms
 5. Elementary Symbol Tables
 6. Trees
-	1. Binary trees
-	2. Binary Search Trees
-	3. Balanced Search Trees
-	4. Applications
+	* Binary trees
+	* Binary Search Trees
+	* Balanced Search Trees
+	* Applications
 7. Hash Tables
 8. Application of Symbol Tables
 9. Graph Algorithms
