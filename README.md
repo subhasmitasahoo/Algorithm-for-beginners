@@ -1,7 +1,7 @@
-##### Algorithm-for-beginners
+# Algorithm-for-beginners
 Inspired from Algorithm course by Robert Sedgewick
 
-# Content structure
+### Content structure
 1. Topic Introduction
 2. List of subtopics covered
 3. For each Subtopics:
@@ -11,10 +11,10 @@ Inspired from Algorithm course by Robert Sedgewick
 	4. Complexity Analysis
 	5. Applications along with implementations
 	
-# Topics currently being covered
+### Topics currently being covered
 
 
-# Topic to be covered
+### Topic to be covered
 	1. Analysis of Algorithms
 	2. Stacks and Queues
 	3. Sorting
