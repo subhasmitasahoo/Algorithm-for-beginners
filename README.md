@@ -15,8 +15,8 @@ Inspired from Algorithm course by Robert Sedgewick
 
 
 ### Topic to be covered
-	[x] 1. Analysis of Algorithms
-	[ ] 2. Stacks and Queues
+	1. Analysis of Algorithms
+	2. Stacks and Queues
 	3. Sorting
 		1. Elementary sorts
 		2. Merge sort
