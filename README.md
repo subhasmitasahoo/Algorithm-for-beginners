@@ -18,10 +18,10 @@ Inspired from Algorithm course by Robert Sedgewick
 	1. Analysis of Algorithms
 	2. Stacks and Queues
 	3. Sorting
-		- Elementary sorts
-		- Merge sort
-		- Quick sort
-		- Priority queues
+	- Elementary sorts
+	- Merge sort
+	- Quick sort
+	- Priority queues
 	4. Union Find Algorithms
 	5. Elementary Symbol Tables
 	6. Trees
