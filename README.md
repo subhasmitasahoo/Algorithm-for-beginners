@@ -18,17 +18,17 @@ Inspired from Algorithm course by Robert Sedgewick
 	1. Analysis of Algorithms
 	2. Stacks and Queues
 	3. Sorting
-	- Elementary sorts
-	- Merge sort
-	- Quick sort
-	- Priority queues
+		* Elementary sorts
+		* Merge sort
+		* Quick sort
+		* Priority queues
 	4. Union Find Algorithms
 	5. Elementary Symbol Tables
 	6. Trees
-		- Binary trees
-		- Binary Search Trees
-		- Balanced Search Trees
-		- Applications
+		* Binary trees
+		* Binary Search Trees
+		* Balanced Search Trees
+		* Applications
 	7. Hash Tables
 	8. Application of Symbol Tables
 	9. Graph Algorithms
