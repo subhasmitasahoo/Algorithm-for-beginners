@@ -1,5 +1,5 @@
 # Algorithm-for-beginners
-Inspired from Algorithm course by Robert Sedgewick
+Inspired from Algorithm course in Coursera
 
 ### Content structure
 1. Topic Introduction
