@@ -99,7 +99,7 @@ int main(){
 				break;
 			case 2:
 				int val = s.pop();
-				cout<<"Popped "<<val<<endl;
+				cout<<"Popped Element: "<<val<<endl;
 				cout<<"Current Top: "<<s.top()<<endl;
 				break;
 			case 3:
