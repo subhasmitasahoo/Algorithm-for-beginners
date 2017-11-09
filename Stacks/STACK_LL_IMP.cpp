@@ -98,8 +98,8 @@ int main(){
 				cout<<"Current Top: "<<s.top()<<endl;
 				break;
 			case 2:
-				s.pop();
-				cout<<"Popped"<<endl;
+				int val = s.pop();
+				cout<<"Popped "<<val<<endl;
 				cout<<"Current Top: "<<s.top()<<endl;
 				break;
 			case 3:
